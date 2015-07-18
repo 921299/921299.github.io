@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Zhang Yujie]]></title>
+  <link href="http://zhangyujie.cn/atom.xml" rel="self"/>
+  <link href="http://zhangyujie.cn/"/>
+  <updated>2015-07-18T22:21:52+08:00</updated>
+  <id>http://zhangyujie.cn/</id>
+  <author>
+    <name><![CDATA[zhangyujie.cn]]></name>
+    <email><![CDATA[1024334427@qq.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
