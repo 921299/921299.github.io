@@ -14,9 +14,8 @@
  - 微博：[@张玉杰T](http://weibo.com/date21)
  - 技术博客：http://www.zhangyujie.cn
  - Github：https://github.com/921299/
-
- - 期望职位：PHP高级程序员，应用架构师
- - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+ - 期望职位：PHP开发工程师
+ - 期望薪资：15K
  - 期望城市：北京
 
 ---
